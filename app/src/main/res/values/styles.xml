@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ShapeAppearanceOverlay.App.CornerSize50Percent" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay.App.CornerSize10Percent" parent="">
+        <item name="cornerSize">10%</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.App.CornerSize05Percent" parent="">
+        <item name="cornerSize">05%</item>
+    </style>
+
+    <!-- SearchView -->
+    <style name="search_view.default" parent="Widget.AppCompat.SearchView">
+        <item name="android:textSize">12sp</item>
+        <item name="android:background">@null</item>
+        <item name="iconifiedByDefault">false</item>
+        <item name="queryBackground">@null</item>
+    </style>
+
+    <style name="TransparentBottomSheetDialogTheme"
+        parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/TransparentBottomSheetDialogStyle</item>
+    </style>
+
+    <style name="TransparentBottomSheetDialogStyle"
+        parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@color/transparent</item>
+    </style>
+</resources>

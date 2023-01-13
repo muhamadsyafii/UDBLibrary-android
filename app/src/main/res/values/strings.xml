@@ -1,3 +1,49 @@
 <resources>
-    <string name="app_name">UDBLibrary</string>
+    <string name="app_name">UDB Library</string>
+
+    <string name="label_hello_bahtiar">Halo, Bahtiar !</string>
+
+    <!--Bottom Nav-->
+    <string name="label_nav_home">Home</string>
+    <string name="label_nav_cart">Keranjang</string>
+    <string name="label_nav_history">Riwayat</string>
+    <string name="label_nav_profile">Profile</string>
+
+
+    <!--Home-->
+    <string name="label_ilkom">ILMU KOMPUTER</string>
+    <string name="label_see_all">Lihat semua</string>
+    <string name="label_recommended">REKOMENDASI NOVEL</string>
+
+
+    <!--Toolbar-->
+    <string name="label_toolbar_cart">Keranjang</string>
+    <string name="label_toolbar_history">Riwayat</string>
+    <string name="label_toolbar_profile">Profile</string>
+    <string name="label_toolbar_detail">Detail Buku</string>
+
+
+    <!--Detail-->
+    <string name="text_add_to_cart">Tambah Keranjang</string>
+    <string name="text_read_now">Baca Sekarang</string>
+    <string name="label_title_book">Negeri 5 Menara</string>
+    <string name="label_author_book">Ahmad Fuadi</string>
+    <string name="label_genre_book">Genre : Fiksi</string>
+    <string name="label_year_book">Tahun : 2019</string>
+    <string name="label_sinopsis_book">Sinopsis</string>
+    <string name="label_desc_book">Novel ini bercerita tentang kehidupan 6 santri dari 6 daerah yang berbeda menuntut ilmu di Pondok Madani Ponorogo Jawa Timur yang jauh dari rumah dan berhasil mewujudkan mimpi menggapai jendela dunia.\nKian hari mereka semakin akrab dan memiliki kegemaran yang sama yaitu duduk di bawah menara pondok madani. Dari kegemaran yang sama mereka menyebut diri mereka sebagai Sahibul Menara.</string>
+
+
+    <!--Profile-->
+    <string name="label_name_bahtiar">MH Bachtiar Al Rosyid</string>
+    <string name="label_nim">190103215</string>
+    <string name="label_keamanan">Keamanan</string>
+    <string name="label_ganti_pin">Ganti PIN</string>
+    <string name="label_face_id">Aktivasi Face ID Login</string>
+    <string name="label_bantuan">Bantuan</string>
+    <string name="label_bantuan_chat">Bantuan Chat</string>
+    <string name="label_bantuan_pusat">Pusat Bantuan</string>
+    <string name="label_syarat">Syarat &amp; Ketentuan</string>
+    <string name="label_keluar">Keluar</string>
+
 </resources>
